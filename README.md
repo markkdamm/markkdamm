@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Colenn Damn
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/1376658111772168192/1659531094/1500x500)
 
-<!--
-**colenndamn/colenndamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Colenn, a web and app developer from Spain. I'm currently working on using machine learning within react native.
 
-Here are some ideas to get you started:
+Skills: REACT NATIVE / REACT / JS / HTML / CSS / PYTHON / TENSORFLOW 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Machine Learning 
+- 📫 How to reach me: sergio@axesoftwareai.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/colenndamn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/colenndamn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/colenndamn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/colenndamn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](axesoftwareai.com)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=colenndamn)  
+
+
