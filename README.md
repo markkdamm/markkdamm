@@ -1,5 +1,5 @@
-### Hi there 👋, Colenn Damn
-#### Design and Development
+# Colenn Damn
+### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1376658111772168192/1659531094/1500x500)
 
 I'm Colenn, a web and app developer from Spain. I'm currently working on using machine learning within react native.
