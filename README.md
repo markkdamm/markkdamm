@@ -13,12 +13,12 @@
 <p align="left">
 <a href="https://twitter.com/colenndamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="colenndamn" height="30" width="40" /></a>
 <a href="https://instagram.com/colenndamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="colenndamn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="colenndamn" height="30" width="40" /></a>
+<a href="https://dev.to/colenndamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="colenndamn" height="30" width="40" /></a>
 </p>
 
 <h2>Languages and tools</h2>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,cs,c,py,figma&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,cs,c,py,firebase,arduino,vscode,github,cloudflare,figma&theme=dark)
 ---
 
 <details>
