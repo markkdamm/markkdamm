@@ -2,10 +2,19 @@
 ![Design and Development](https://pbs.twimg.com/profile_banners/1376658111772168192/1659559842/1500x500)
 
 <h1 align="center"> I'm a full stack developer and designer 🎨</h1>
+<br/>
+<br/>
 
-I'm Colenn Damn, a web and app developer from Spain. I'm currently working on machine learning within react native. 
-[![Website](https://img.shields.io/website?label=axesoftwareai.com&style=for-the-badge&url=https%3A%2F%2Faxesoftwareai.com)](https://axesoftwareai.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/colenndamn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcolenndamn&screen_name=colenndamn)
+* 📱 I'm currently working on **machine learning within react native**. 
+* 🎯 My goal is touse code to **improve people's health and wellbeing**.
+* 🧑‍💻 I'm currently developing a AI to **fight obesity**. 
+
+<h3> Connect with me </h3>
+<p align="left">
+<a href="https://twitter.com/colenndamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="colenndamn" height="30" width="40" /></a>
+<a href="https://instagram.com/colenndamn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="colenndamn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="colenndamn" height="30" width="40" /></a>
+</p>
 
 <h2>Languages and tools</h2>
 
@@ -26,11 +35,10 @@ I'm Colenn Damn, a web and app developer from Spain. I'm currently working on ma
 [instagram]: https://instagram.com/colenndamn
 [linkedin]: https://linkedin.com/in/colenndamn
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="colenndamn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=colenndamn&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<details>
+  <summary>:zap: Most used languages</summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colenndamn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="colenndamn" /></p>
 
 </details>
-
-
