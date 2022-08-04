@@ -18,7 +18,7 @@
 
 <h2>Languages and tools</h2>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,cs,c,py,firebase,arduino,vscode,github,cloudflare,figma&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,nodejs,c,py,firebase,arduino,vscode,tailwind,figma&theme=dark)
 ---
 
 <details>
