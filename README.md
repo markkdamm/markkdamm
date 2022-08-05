@@ -21,6 +21,8 @@
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,nodejs,c,py,firebase,arduino,vscode,tailwind,figma&theme=dark)
 ---
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="markdamm" data-color="#BD5FFF" data-emoji="🍪" data-font="Cookie" data-text="Buy me a cookie" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
