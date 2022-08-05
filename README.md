@@ -1,5 +1,5 @@
 
-![Design and Development](https://pbs.twimg.com/profile_banners/1376658111772168192/1659559842/1500x500)
+![Design and Development](https://pbs.twimg.com/profile_banners/1376658111772168192/1659708928/1500x500)
 
 <h1 align="center"> I'm a full stack developer and designer 🎨</h1>
 <br/>
