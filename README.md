@@ -32,7 +32,6 @@
 
 </details>
 
-
 [website]: https://axesoftwareai.com
 [twitter]: https://twitter.com/markkdamm
 [youtube]: https://youtube.com/markkdamm
