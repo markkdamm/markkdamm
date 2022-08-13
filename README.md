@@ -10,13 +10,14 @@
 * 🧑‍💻 I'm currently developing a AI to **fight obesity**. 
 * 🛏 Visit my <a href="https://my.spline.design/miniroomartcopy-c2e5e0c5957d075bb42c07a0d051de57/"> room </a>
 
-<h3> Connect with me </h3>
+<h3> Support & Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/mark__damm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markkdamm" height="30" width="40" /></a>
 <a href="https://instagram.com/markkdamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markkdamm" height="30" width="40" /></a>
 <a href="https://dev.to/markkdamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="markkdamm" height="30" width="40" /></a>
 </p>
-
+<h3> Support me</h3>
+<a href="https://www.buymeacoffee.com/markdamm"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=&slug=markdamm&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
 <h2>Languages and tools</h2>
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,nodejs,c,py,md,firebase,arduino,vscode,prisma,figma&theme=dark)
