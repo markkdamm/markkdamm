@@ -6,7 +6,7 @@
 <br/>
 
 * 📱 I'm currently working on **machine learning within react native**. 
-* 🎯 My goal is touse code to **improve people's health and wellbeing**.
+* 🎯 Study in TUM computer science.
 * 🧑‍💻 I'm currently developing a AI to **fight obesity**. 
 * 🛏 Visit my <a href="https://my.spline.design/miniroomartcopy-c2e5e0c5957d075bb42c07a0d051de57/"> room </a>
 
