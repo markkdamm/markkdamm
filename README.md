@@ -6,9 +6,7 @@
 <br/>
 
 * 📱 I'm currently working on **machine learning within react native**. 
-* 🎯 Main goal: Study computer science at TUM. Goal driven.
 * 📙 My CS notes include courses and special resources get them for <a href="https://mark.axesoftwareai.com/notebook/">free here</a>. 
-* 学び Learning japanese and improving my german, native bilingual.
 
 <h3> Support & Connect with me </h3>
 <p align="left">
