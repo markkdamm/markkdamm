@@ -3,9 +3,6 @@
 <br/>
 <br/>
 
-* 📱 I'm currently working on **machine learning within react native**. 
-* 📙 My CS notes include courses and special resources get them for <a href="https://mark.axesoftwareai.com/notebook/">free here</a>. 
-
 <h3> Support & Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/mark__damm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markkdamm" height="30" width="40" /></a>
